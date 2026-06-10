@@ -1,0 +1,60 @@
+{
+  "original_rows": 24,
+  "operations": [
+    {
+      "name": "drop_latest_records",
+      "rows": 2,
+      "paper_ids": [
+        "10.22158/eltls.v8n3p21",
+        "10.26877/jipmat.v11i1.2279"
+      ]
+    },
+    {
+      "name": "blank_summary",
+      "rows": 3,
+      "indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "name": "inject_summary_noise",
+      "rows": 3,
+      "indices": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "truncate_title",
+      "rows": 3,
+      "indices": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "stale_publication_date",
+      "rows": 3,
+      "indices": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "add_duplicate_rows",
+      "rows": 2,
+      "paper_ids": [
+        "10.14414/jbb.v15i01.5538",
+        "10.64592/cpssg.2026.2"
+      ]
+    }
+  ],
+  "final_rows": 24,
+  "blank_summary_rows": 3,
+  "duplicate_paper_id_rows": 2
+}

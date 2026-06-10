@@ -1,0 +1,290 @@
+[
+  {
+    "id": "q001",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "This study selects 15 short videos published over the past year by new-type farmers (xin nong ren) on Douyin as research corpus.",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q002",
+    "question_type": "authors",
+    "question": "Who authored the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "Yixin Chen",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q003",
+    "question_type": "date",
+    "question": "When was the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin' published on?",
+    "ground_truth": "2027-05-07",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q004",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "q005",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Pemahaman siswa terhadap ide-ide dasar adalah hasil yang diharapkan dari penyelidikan ini tentang kemanjuran paradigma instruksional Pembelajaran Berbasis Masalah (PBL) dengan penggunaan alat pedagogis.",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q006",
+    "question_type": "authors",
+    "question": "Who authored the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Cikal Wulandari Kristi, Widya Kusumaningsih, Rizky Esti Utami",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q007",
+    "question_type": "date",
+    "question": "When was the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN' published on?",
+    "ground_truth": "2027-04-27",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q008",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "q009",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "This study aims to examine the effects, improvements, and differences in the skills and work attitudes of students through the integration of a Deep Learning approach with the Project Based Learning PjBL model in the Style and Design Development element of the Fashion Design and Production subject at vocational high schools.",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q010",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "Umi Chasanah Turosidah, Yeri Sutopo, Sri Endah Wahyuningsih, Ade Novi Nurul Ihsani",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q011",
+    "question_type": "date",
+    "question": "When was the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q012",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "q013",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "The increasingly advanced and modern social and cultural development of society has led many people to prefer instant and practical things, such as online transportation.",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "q014",
+    "question_type": "authors",
+    "question": "Who authored the paper 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "Achmad Fazi Alam, Dhany Isnaeni Dharmawan",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "q015",
+    "question_type": "date",
+    "question": "When was the paper 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "q016",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "q017",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Pioneer performances depend on entrepreneurial orientation for their success.",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "q018",
+    "question_type": "authors",
+    "question": "Who authored the paper 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Saira Naz, Fatima Liaquat",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "q019",
+    "question_type": "date",
+    "question": "When was the paper 'A Moderating and mediating model of innovation performance' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "q020",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "q021",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "This study explores how ethical leadership fosters employees' feedback-seeking behaviours.",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q022",
+    "question_type": "authors",
+    "question": "Who authored the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "Wasim Ul Rehman, Mustafa Bekmezci, L\u00fctfi S\u00fcr\u00fcc\u00fc, Kamran Ali, Anam Mustansar",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q023",
+    "question_type": "date",
+    "question": "When was the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q024",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "q025",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "The growing demand for clean and reliable energy has accelerated the adoption of renewable energysystems such as solar photovoltaic and wind power technologies.",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "q026",
+    "question_type": "authors",
+    "question": "Who authored the paper 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "Vidhya G, Suchithra, M, Santhosh G, Anupama M",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "q027",
+    "question_type": "date",
+    "question": "When was the paper 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation' published on?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "q028",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'AI-Based Performance Analysis of Renewable Energy Systems for Sustainable Power Generation'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.33425/3066-1226.1195"
+    ]
+  },
+  {
+    "id": "q029",
+    "question_type": "summary",
+    "question": "What is the main point of the paper 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "This article addresses the need to understand how digital marketing influences the purchasing intentions of Generation Z, a key demographic for the restaurant industry due to its strong digital presence.",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "q030",
+    "question_type": "authors",
+    "question": "Who authored the paper 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "Iris Leandra Alfonso-Sanjul, Elizabeth Acosta-Gonzaga",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "q031",
+    "question_type": "date",
+    "question": "When was the paper 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review' published on?",
+    "ground_truth": "2026-12-30",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  },
+  {
+    "id": "q032",
+    "question_type": "categories",
+    "question": "What categories are listed for the paper 'Digital marketing factors influencing Generation Z\u2019s purchase intention in the restaurant sector: a systematic review'?",
+    "ground_truth": "journal-article",
+    "ground_truth_doc_ids": [
+      "10.35429/ejm.2026.17.35.1.1.10"
+    ]
+  }
+]

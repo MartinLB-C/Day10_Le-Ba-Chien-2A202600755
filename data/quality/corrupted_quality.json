@@ -1,0 +1,76 @@
+{
+  "report_name": "corrupted_quality.json",
+  "total_rows": 24,
+  "passed": false,
+  "failed_checks": [
+    "paper_id_unique",
+    "summary_not_blank",
+    "summary_min_length",
+    "freshness_threshold"
+  ],
+  "checks": [
+    {
+      "name": "row_count_positive",
+      "passed": true,
+      "detail": {
+        "total_rows": 24
+      }
+    },
+    {
+      "name": "paper_id_not_null",
+      "passed": true,
+      "detail": {
+        "non_null": 24,
+        "total_rows": 24
+      }
+    },
+    {
+      "name": "paper_id_unique",
+      "passed": false,
+      "detail": {
+        "duplicate_rows": 2
+      }
+    },
+    {
+      "name": "title_not_blank",
+      "passed": true,
+      "detail": {
+        "empty_rows": 0,
+        "total_rows": 24
+      }
+    },
+    {
+      "name": "summary_not_blank",
+      "passed": false,
+      "detail": {
+        "empty_rows": 3,
+        "total_rows": 24
+      }
+    },
+    {
+      "name": "text_for_embedding_not_blank",
+      "passed": true,
+      "detail": {
+        "empty_rows": 0,
+        "total_rows": 24
+      }
+    },
+    {
+      "name": "summary_min_length",
+      "passed": false,
+      "detail": {
+        "min_chars": 40,
+        "short_rows": 3
+      }
+    },
+    {
+      "name": "freshness_threshold",
+      "passed": false,
+      "detail": {
+        "threshold_days": 180,
+        "stale_rows": 3,
+        "missing_age_rows": 0
+      }
+    }
+  ]
+}
